@@ -1,6 +1,6 @@
 class dog 
   
-def breed=(new_breed)
+def breed=(breed)
   @breed = breed
 end
 
@@ -8,7 +8,11 @@ def breed
   @breed
 end
 
-def name= ()
+def name= (name)
+  @name= name
+end
+
+def n
   
   
   
