@@ -12,7 +12,9 @@ def name= (name)
   @name= name
 end
 
-def n
+def name
+  @name
+end
   
   
   
